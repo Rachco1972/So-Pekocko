@@ -77,6 +77,4 @@ Dans le dossier <kbd> :file_folder: backend </kbd>
 * Database : MongoDb
 * VsCode
 
-## Auteur
 
-Sunpadow - elsa dessarps - 2021
